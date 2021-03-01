@@ -5,7 +5,8 @@
 
 My name is Tae
 
--  I'm a student at KMITL major in Computer engineering
+-  I'm a student at KMITL major in Computer engineering.
+-  I'm interested in Software development and Data engineer.
 
 <p  align="center">
   <img alt="vscode" src="./assets/vscode.gif" height="50">  
