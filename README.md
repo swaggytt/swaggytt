@@ -14,3 +14,5 @@ My name is Tae
   <img alt="git" src="./assets/git.gif" height="50">
   <img alt="node" src="./assets/node.gif" height="50">
 </p>
+
+[![swaggytt's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaggytt)](https://github.com/anuraghazra/github-readme-stats)
