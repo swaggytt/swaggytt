@@ -16,4 +16,4 @@ My name is Tae
 </p>
 
 [![swaggytt's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaggytt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaggytt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaggytt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
